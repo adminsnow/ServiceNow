@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>User</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 18:14:22</sys_created_on>
+        <sys_id>7c2003752fb00010e0c42ea62799b68c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="New Hello world" source="x_420219_new_hello">a291de352f300010e0c42ea62799b6c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Hello world">a291de352f300010e0c42ea62799b6c4</sys_scope>
+        <sys_update_name>sys_ui_view_7c2003752fb00010e0c42ea62799b68c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 18:14:22</sys_updated_on>
+        <title>User</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
