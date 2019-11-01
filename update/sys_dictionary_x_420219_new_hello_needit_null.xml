@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-30 15:03:34</sys_created_on>
-        <sys_id>b17496392f300010e0c42ea62799b60a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>3a20ec6a1bb80010adf332a3cc4bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_420219_new_hello_needit</sys_name>
         <sys_package display_value="New Hello world" source="x_420219_new_hello">a291de352f300010e0c42ea62799b6c4</sys_package>
         <sys_policy/>
         <sys_scope display_value="New Hello world">a291de352f300010e0c42ea62799b6c4</sys_scope>
-        <sys_update_name>sys_dictionary_x_420219_new_hello_needit_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-30 18:02:36</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_420219_new_hello_needit_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-11-01 14:30:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
